@@ -1,2 +1,5 @@
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
+README.md annex.largefiles=nothing
+CITATION.cff annex.largefiles=nothing
+.studyminimeta.yaml annex.largefiles=nothing
