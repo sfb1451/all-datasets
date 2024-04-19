@@ -1,0 +1,14 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-																			
+# bold indicates required																				
+name	B05-MRI-BIDS																			
+title	B05 MRI dataset																			
+description	Single-case predictions of motor abilities in health and disease																			
+crc-project	B05																			
+version	latest																			
+sample[organism]	NCBITaxon:9606																			
+sample[organism-part]	UBERON:0000955																		
+keywords																			
+license																				
+doi																				
+homepage	https://www.crc1451.uni-koeln.de/index.php/b05/
+last-updated	2023-10-02																			
