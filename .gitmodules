@@ -18,3 +18,16 @@
 	url = https://github.com/sfb1451/A06_FFLearning
 	datalad-id = 8b7f2fa5-0616-43b1-b335-7a4171502604
 	datalad-url = https://github.com/sfb1451/A06_FFLearning
+[submodule "2021_Ye_Ji_carbon_nanotubes_differentiation"]
+	path = 2021_Ye_Ji_carbon_nanotubes_differentiation
+	url = https://gin.g-node.org/Vogt_Lab/2021_Ye_Ji_carbon_nanotubes_differentiation
+	datalad-id = 20bc6743-827d-4cbf-af60-38add7f55bc5
+	datalad-url = https://gin.g-node.org/Vogt_Lab/2021_Ye_Ji_carbon_nanotubes_differentiation
+[submodule "2022_Bitar_ATX_stroke"]
+	path = 2022_Bitar_ATX_stroke
+	url = https://gin.g-node.org/Vogt_Lab/2022_Bitar_ATX_stroke
+	datalad-id = ebf6852a-ff0c-45c7-99f9-ab7910b084d9
+[submodule "2022_Endle_LPA_feeding_control"]
+	path = 2022_Endle_LPA_feeding_control
+	url = https://gin.g-node.org/msz/2022_Endle_LPA_feeding_control
+	datalad-id = fd41dcd4-0215-4aef-8706-6e97c136c97f
