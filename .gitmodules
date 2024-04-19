@@ -13,3 +13,8 @@
 	url = https://gin.g-node.org/cmo/neuron_data_1
 	datalad-id = ee7cbadc-958f-40f2-85f9-8c75835047fd
 	datalad-url = https://gin.g-node.org/cmo/neuron_data_1
+[submodule "FFLearning"]
+	path = FFLearning
+	url = https://github.com/sfb1451/A06_FFLearning
+	datalad-id = 8b7f2fa5-0616-43b1-b335-7a4171502604
+	datalad-url = https://github.com/sfb1451/A06_FFLearning
