@@ -46,3 +46,8 @@
 	url = https://gin.g-node.org/stejobla/2023_Blaschke_Stroke_tDCS_rsfMRI
 	datalad-id = 83b73949-b6c3-4b2b-81b2-cc3f7236a048
 	datalad-url = https://gin.g-node.org/stejobla/2023_Blaschke_Stroke_tDCS_rsfMRI
+[submodule "2023_Goetz_RecoveryGenes"]
+	path = 2023_Goetz_RecoveryGenes
+	url = https://gin.g-node.org/Aswendt_Lab/2023_Goetz_RecoveryGenes
+	datalad-id = 945795a4-f4d0-43dc-b51a-e73a79ae8d47
+	datalad-url = https://gin.g-node.org/Aswendt_Lab/2023_Goetz_RecoveryGenes
