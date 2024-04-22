@@ -51,3 +51,7 @@
 	url = https://gin.g-node.org/Aswendt_Lab/2023_Goetz_RecoveryGenes
 	datalad-id = 945795a4-f4d0-43dc-b51a-e73a79ae8d47
 	datalad-url = https://gin.g-node.org/Aswendt_Lab/2023_Goetz_RecoveryGenes
+[submodule "2023_Kalantari_DataladExampleDataset"]
+	path = 2023_Kalantari_DataladExampleDataset
+	url = https://gin.g-node.org/Aswendt_Lab/2023_Kalantari_DataladExampleDataset
+	datalad-id = 8ef5a758-77f1-4ce3-b0ed-0507c9dd25b3
