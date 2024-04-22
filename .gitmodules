@@ -41,3 +41,8 @@
 	url = https://github.com/sfb1451/B03_externally-cued-movements
 	datalad-id = a808f9e1-d638-4771-ae4c-ff21da29151a
 	datalad-url = https://github.com/sfb1451/B03_externally-cued-movements
+[submodule "2023_Blaschke_Stroke_tDCS_rsfMRI"]
+	path = 2023_Blaschke_Stroke_tDCS_rsfMRI
+	url = https://gin.g-node.org/stejobla/2023_Blaschke_Stroke_tDCS_rsfMRI
+	datalad-id = 83b73949-b6c3-4b2b-81b2-cc3f7236a048
+	datalad-url = https://gin.g-node.org/stejobla/2023_Blaschke_Stroke_tDCS_rsfMRI
