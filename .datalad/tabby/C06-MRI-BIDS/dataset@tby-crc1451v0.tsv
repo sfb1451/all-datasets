@@ -1,0 +1,14 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-																			
+# bold indicates required																				
+name	C06-MRI-BIDS																			
+title	C06 MRI dataset																			
+description	Task-based fMRI data for analysis of effective connectivity in humans.																			
+crc-project	C06																			
+version	latest																			
+sample[organism]	NCBITaxon:9606																			
+sample[organism-part]	UBERON:0000955	UBERON:0002386	UBERON:8300001																	
+keywords	FMRI	motor control																		
+license																				
+doi																				
+homepage	https://www.crc1451.uni-koeln.de/index.php/c06/
+last-updated	2023-07-18 00:00:00																			
