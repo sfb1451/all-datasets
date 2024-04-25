@@ -1,0 +1,14 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-		
+# bold indicates required			
+name	PI2620-PETs		
+title	PI2620-PETs in patients with Alzheimer's disease with and without apaxic deficits		
+description	Static Tau-PET-imaging data of patients with Alzheimer's disease with and without apaxic deficits.		
+crc-project	C04		
+version	0.1.0		
+sample[organism]	NCBITaxon:9606		
+sample[organism-part]	UBERON:0000955		
+keywords	Tau	PET	Alzheimer’s disease
+license			
+doi			
+homepage			
+last-updated			
