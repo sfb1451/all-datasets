@@ -65,3 +65,8 @@
 	url = https://github.com/sfb1451/C03_DoMoCo
 	datalad-id = dd5da8d4-38c6-4890-809a-2355cfb18d91
 	datalad-url = https://github.com/sfb1451/C03_DoMoCo
+[submodule "mouse-kinematics"]
+	path = mouse-kinematics
+	url = https://github.com/sfb1451/Z02_mouse-kinematics.git
+	datalad-id = 59e2911c-895d-4405-841a-3ce3f17d1b72
+	datalad-url = https://github.com/sfb1451/Z02_mouse-kinematics.git
