@@ -60,3 +60,8 @@
 	url = https://gin.g-node.org/Aswendt_Lab/2023_Stokowska_Periinfarct
 	datalad-id = 4ac2694c-bffb-48ce-8052-cdb6285fc2e7
 	datalad-url = https://gin.g-node.org/Aswendt_Lab/2023_Stokowska_Periinfarct
+[submodule "C03_DoMoCo"]
+	path = DoMoCo
+	url = https://github.com/sfb1451/C03_DoMoCo
+	datalad-id = dd5da8d4-38c6-4890-809a-2355cfb18d91
+	datalad-url = https://github.com/sfb1451/C03_DoMoCo
