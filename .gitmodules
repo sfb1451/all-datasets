@@ -71,3 +71,8 @@
 	url = ssh://juseless.inm7.de/data/group/psyinf/sfb1451/motor-assessment/storage/alias/motor-assessment-derived
 	datalad-id = 78b6be24-01f6-4abe-8d02-cdfe2fbc9751
 	datalad-url = "ria+ssh://juseless.inm7.de/data/group/psyinf/sfb1451/motor-assessment/storage#~motor-assessment-derived"
+[submodule "2022_Endle_LPA_feeding_control"]
+	path = 2022_Endle_LPA_feeding_control
+	url = https://gin.g-node.org/Vogt_Lab/2022_Endle_LPA_feeding_control
+	datalad-id = fd41dcd4-0215-4aef-8706-6e97c136c97f
+	datalad-url = https://gin.g-node.org/Vogt_Lab/2022_Endle_LPA_feeding_control
