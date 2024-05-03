@@ -27,10 +27,6 @@
 	path = 2022_Bitar_ATX_stroke
 	url = https://gin.g-node.org/Vogt_Lab/2022_Bitar_ATX_stroke
 	datalad-id = ebf6852a-ff0c-45c7-99f9-ab7910b084d9
-[submodule "2022_Endle_LPA_feeding_control"]
-	path = 2022_Endle_LPA_feeding_control
-	url = https://gin.g-node.org/msz/2022_Endle_LPA_feeding_control
-	datalad-id = fd41dcd4-0215-4aef-8706-6e97c136c97f
 [submodule "longitudinal-resting-eeg"]
 	path = longitudinal-resting-eeg
 	url = https://github.com/sfb1451/B03_longitudinal-resting-eeg
