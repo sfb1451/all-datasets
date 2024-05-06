@@ -83,6 +83,9 @@ authors:
     family-names: Weiss-Blankenhorn
   - given-names: Brunhilde
     family-names: Wirth
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.11119424
 abstract: >-
   This is a collection of datasets created within the Collaborative
   Research Center 1451. The "superdataset" contains information about

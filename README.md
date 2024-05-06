@@ -1,5 +1,7 @@
 # SFB 1451 superdataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11119424.svg)](https://doi.org/10.5281/zenodo.11119424)
+
 This is a collection of datasets created within the Collaborative
 Research Center 1451.  The "superdataset" contains information about
 datasets stored in various locations.  This information can be used to
