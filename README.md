@@ -5,7 +5,7 @@ Research Center 1451.  The "superdataset" contains information about
 datasets stored in various locations.  This information can be used to
 obtain programmatic, fine-grained data access to the level of
 individual files, depending on the level of detail provided by dataset
-authors and on access restrictions.
+authors, storage location, and access restrictions.
 
 This repository provides dataset information in two formats:
 

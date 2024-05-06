@@ -84,18 +84,21 @@ authors:
   - given-names: Brunhilde
     family-names: Wirth
 abstract: >-
-  This dataset indexes projects of the Collaborative
-  Research Centre 1451 (CRC1451; dt:
-  Sonderforschungsbereich, SFB1451). This collaborative
-  research centre brings together neuroscientists
-  investigating genetic factors, cellular, and synaptic as
-  well as systems/neural network processes underlying motor
-  control in animals and humans, in both health and
-  neuropsychiatric diseases. All investigators are committed
-  to the CRC’s multi-faceted, iterative, and integrative
-  agenda with the long-term goal of identifying the
-  essential mechanisms underlying normal and pathological
-  motor control.
+  This is a collection of datasets created within the Collaborative
+  Research Center 1451. The "superdataset" contains information about
+  datasets stored in various locations. This information can be used
+  to obtain programmatic, fine-grained data access to the level of
+  individual files, depending on the level of detail provided by
+  dataset authors, storage location, and access restrictions. The
+  Collaborative Research Center 1451 (CRC1451; dt:
+  Sonderforschungsbereich, SFB1451) brings together neuroscientists
+  investigating genetic factors, cellular, and synaptic as well as
+  systems/neural network processes underlying motor control in animals
+  and humans, in both health and neuropsychiatric diseases. All
+  investigators are committed to the CRC’s multi-faceted, iterative,
+  and integrative agenda with the long-term goal of identifying the
+  essential mechanisms underlying normal and pathological motor
+  control.
 keywords:
   - Motor control
   - Health
@@ -107,4 +110,3 @@ keywords:
   - Networks
   - Animals
   - Humans
-
