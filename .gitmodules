@@ -81,3 +81,8 @@
 	url = https://github.com/psychoinformatics-de/joe_and_lili
 	datalad-id = 7034876c-cd2b-403c-b470-da57e6407747
 	datalad-url = https://github.com/psychoinformatics-de/joe_and_lili
+[submodule "ClusteredNetwork_pub"]
+	path = ClusteredNetwork_pub
+	url = https://github.com/psychoinformatics-de/ClusteredNetwork_pub
+	datalad-id = bfe12f51-3f30-4ceb-b4de-9b6f85f2ef6c
+	datalad-url = https://github.com/psychoinformatics-de/ClusteredNetwork_pub
