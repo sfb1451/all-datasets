@@ -76,11 +76,6 @@
 	url = https://gin.g-node.org/Vogt_Lab/2022_Endle_LPA_feeding_control
 	datalad-id = fd41dcd4-0215-4aef-8706-6e97c136c97f
 	datalad-url = https://gin.g-node.org/Vogt_Lab/2022_Endle_LPA_feeding_control
-[submodule "joe_and_lili"]
-	path = joe_and_lili
-	url = https://github.com/psychoinformatics-de/joe_and_lili
-	datalad-id = 7034876c-cd2b-403c-b470-da57e6407747
-	datalad-url = https://github.com/psychoinformatics-de/joe_and_lili
 [submodule "ClusteredNetwork_pub"]
 	path = ClusteredNetwork_pub
 	url = https://github.com/psychoinformatics-de/ClusteredNetwork_pub
