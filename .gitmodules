@@ -76,11 +76,6 @@
 	url = https://gin.g-node.org/Vogt_Lab/2022_Endle_LPA_feeding_control
 	datalad-id = fd41dcd4-0215-4aef-8706-6e97c136c97f
 	datalad-url = https://gin.g-node.org/Vogt_Lab/2022_Endle_LPA_feeding_control
-[submodule "ClusteredNetwork_pub"]
-	path = ClusteredNetwork_pub
-	url = https://github.com/psychoinformatics-de/ClusteredNetwork_pub
-	datalad-id = bfe12f51-3f30-4ceb-b4de-9b6f85f2ef6c
-	datalad-url = https://github.com/psychoinformatics-de/ClusteredNetwork_pub
 [submodule "delayed_center-out_uncertainty_Riehle"]
 	path = delayed_center-out_uncertainty_Riehle
 	url = https://gin.g-node.org/nawrotlab/delayed_center-out_uncertainty_Riehle
